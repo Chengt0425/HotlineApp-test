@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605390923791",
+    "firebase_url": "https://webrtcproject-7c1ae.firebaseio.com",
+    "project_id": "webrtcproject-7c1ae",
+    "storage_bucket": "webrtcproject-7c1ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605390923791:android:23744595df3588fc",
+        "android_client_info": {
+          "package_name": "com.example.azurenight.hotlineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605390923791-9ajk8gt9av35ludbogahd71v2iof6hbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa1BO0C5CNcACVe1wcsY_KyjZWy4-7cPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605390923791-9ajk8gt9av35ludbogahd71v2iof6hbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
